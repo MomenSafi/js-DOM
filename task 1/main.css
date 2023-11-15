@@ -1,0 +1,12 @@
+.test{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    background-color: yellow;
+    align-items: center;
+    font-size: 20px;
+}
+
+.test span{
+    margin: auto;
+}

@@ -1,0 +1,12 @@
+.top {
+    background-color: #f6f6f6;
+    padding: 20px;
+    text-align: center;
+}
+
+.bottom {
+    background-color: #f6f6f6;
+    padding: 20px;
+    text-align: center;
+    display: none;
+}
